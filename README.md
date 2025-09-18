@@ -9,7 +9,8 @@
 - 🐍 Python (pandas, matplotlib, numpy, etc.)
 - 💻 Desenvolvimento em VSCode
 - 🌐 HTML5, CSS3 (Bootstrap), JavaScript, Node.js
-- 🔐 Cibersegurança & automação
+- 🔐 Cibersegurança
+- Automação com inteligencia Artificial
 - 📊 Análise de dados e visualização
 
 ---
