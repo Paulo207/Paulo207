@@ -16,6 +16,7 @@
 
 ## 💡 Especialidade
 Sou especialista em usar HTML5, Bootstrap, CSS3, Node.js e JavaScript para criar **layouts responsivos e interativos** que se destacam.
+Sou especialista em Análise de dados e visualização
 
 ---
 
@@ -32,7 +33,7 @@ Sou especialista em usar HTML5, Bootstrap, CSS3, Node.js e JavaScript para criar
 ---
 
 ## ⚡ Um pouco sobre mim
-- 👨‍🎓 Atualmente aprendendo **fundamentos de Python** na faculdade
+- 👨‍🎓 Atualmente aprendendo **fundamentos de Python** na escoal MasterD
 - 🎯 Objetivo: crescer na área de **Python Development** e **Cybersecurity**
 - 📚 Gosto de praticar lógica, resolver desafios e criar pequenos projetos.
 
