@@ -10,7 +10,7 @@
 - 💻 Desenvolvimento em VSCode
 - 🌐 HTML5, CSS3 (Bootstrap), JavaScript, Node.js
 - 🔐 Cibersegurança
-- Automação com inteligencia Artificial
+- 💻 Automação com inteligencia Artificial
 - 📊 Análise de dados e visualização
 
 ---
