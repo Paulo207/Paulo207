@@ -1,10 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,2,5&height=200&text=Paulo%20André%20Barnabé&fontSize=44&fontColor=ffffff&fontAlignY=48&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Automation%20%26%20AI&descAlignY=72&descSize=18&animation=fadeIn)
+# 👋 Olá, sou o Paulo André Barnabé
+
+### 💡 Data Analyst · Python Developer · Automation & AI
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E6DA4&center=true&vCenter=true&width=600&lines=Transformo+dados+em+decis%C3%B5es+%F0%9F%93%8A;Automação+inteligente+com+IA+%F0%9F%A4%96;Python+%7C+React+%7C+Docker+%7C+n8n+%7C+OpenAI;Logística+%2B+Tecnologia+%3D+Impacto+Real+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E6DA4&center=true&vCenter=true&width=620&lines=Transformo+dados+em+decisões+📊;Automação+inteligente+com+IA+🤖;Python+%7C+React+%7C+Docker+%7C+n8n+%7C+OpenAI;Logística+%2B+Tecnologia+%3D+Impacto+Real+🚀)](https://git.io/typing-svg)
 
 <br/>
 
