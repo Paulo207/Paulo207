@@ -1,6 +1,21 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:2E6DA4&height=200&section=header&text=Paulo%20André%20Aires%20Barnabé&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Automation%20%26%20AI&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Paulo%20André%20Barnabé&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Automation%20%26%20AI&descAlignY=62&descSize=18&stroke=ffffff&strokeWidth=1)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E6DA4&center=true&vCenter=true&width=600&lines=Transformo+dados+em+decis%C3%B5es+%F0%9F%93%8A;Automação+inteligente+com+IA+%F0%9F%A4%96;Python+%7C+React+%7C+Docker+%7C+n8n+%7C+OpenAI;Logística+%2B+Tecnologia+%3D+Impacto+Real+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Paulo207&color=2E6DA4&style=for-the-badge&label=Visitas+ao+Perfil)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreairesw@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-andré-aires-barnabé-9851b6166)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351920536853)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulo207)
 
 </div>
 
@@ -116,6 +131,8 @@ Apaixonado por tecnologia, automação inteligente e soluções que unem **dados
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E6DA4,100:1B3A6B&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn)
+
+*"Dados sem contexto são apenas números. Com contexto, são decisões."*
 
 </div>
