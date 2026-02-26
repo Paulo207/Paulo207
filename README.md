@@ -1,113 +1,121 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:DAA520&height=180&section=header&text=Paulo%20André%20Aires%20Barnabé&fontSize=28&fontColor=000000&fontAlignY=35" />
-</p>
+<div align="center">
 
-<h3 align="center">🚀 Desenvolvedor Front-End | Python Developer | Automação & IA</h3>
-<p align="center">Criador de soluções digitais inteligentes e funcionais</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:2E6DA4&height=200&section=header&text=Paulo%20André%20Aires%20Barnabé&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Automation%20%26%20AI&descAlignY=58&descSize=16)
+
+</div>
 
 ---
 
 ## 🧠 Sobre Mim
 
-Sou um desenvolvedor apaixonado por **tecnologia, design e inovação**.  
-Tenho experiência em **desenvolvimento web**, **automação inteligente**, **WordPress**, **análise de dados** e **integração com IA**.  
-Meu objetivo é criar soluções digitais que unam **performance, estética e inteligência** para transformar ideias em resultados reais.
+Sou um profissional com formação em **Ciências da Computação** e especialização em **Análise de Dados com Python**, com experiência operacional no sector da **logística automotiva** (Schnellecke Logistics).
+
+O meu diferencial é a **visão híbrida**: conheço o chão de fábrica e sei transformar dados operacionais em insights accionáveis para a gestão.
+
+Apaixonado por tecnologia, automação inteligente e soluções que unem **dados, eficiência e inovação**.
+
+📍 Vila Nova de Famalicão, Portugal
 
 ---
 
-## 🧩 Especialidades Técnicas
+## 🚀 Especialidades Técnicas
 
-### 🌐 **Front-End Development**
+### 📊 Análise de Dados
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Dashboards e visualização de KPIs operacionais
+- Relatórios automatizados e storytelling com dados
+- Análise de cadeias de abastecimento e logística
+
+### 🤖 Automação & Inteligência Artificial
+- Fluxos automatizados com **n8n** e **Make (Integromat)**
+- Desenvolvimento de **chatbots** e apps com **OpenAI API**
+- Web scraping, bots e automação de processos
+- Integração com CRMs, APIs e bases de dados
+
+### 🌐 Desenvolvimento Web
 - HTML5, CSS3, JavaScript (ES6+)
+- **React** — componentes, hooks e aplicações web modernas (EBAC)
 - Bootstrap e design responsivo
-- Integração com APIs e sites dinâmicos
+- WordPress — temas, plugins, SEO e e-commerce
+- Integração com APIs externas
 
-### ⚙️ **Desenvolvimento Web com WordPress**
-- Criação e personalização de temas e plugins  
-- SEO e otimização de performance  
-- E-commerces e landing pages modernas
-
-### 🐍 **Python Developer**
-- Automações (web scraping, bots, rotinas)
-- Aplicações web e desktop
-- Análise de dados (Pandas, NumPy, Matplotlib)
-- Conexão com APIs e bancos de dados
-
-### 🤖 **Inteligência Artificial & Automações**
-- Desenvolvimento de **apps com IA (OpenAI API, Chatbots, etc.)**
-- Criação de fluxos automatizados com **n8n** e **Make (Integromat)**
-- Integração com CRMs, e-mails e redes sociais
-- Automações com IA para otimização de processos
+### 🐳 DevOps & Infraestrutura
+- **Docker** — containerização de aplicações e ambientes de desenvolvimento
+- Gestão de containers e imagens Docker
 
 ---
 
 ## ⚡ Stack & Ferramentas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6A3D?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make%20(Integromat)-0099E5?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6A3D?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make_(Integromat)-00996D?style=for-the-badge&logo=make&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 💼 Projetos em Destaque
+## 💼 Projeto em Destaque
 
-<p align="center">
-  <a href="https://github.com/Paulo207" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo207&repo=LandingPage-Modern&theme=gold&title_color=DAA520&icon_color=FFD700&hide_border=true" />
-  </a>
-  <a href="https://github.com/Paulo207" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo207&repo=Python-Automation-Bot&theme=gold&title_color=DAA520&icon_color=FFD700&hide_border=true" />
-  </a>
-</p>
+### 📦 Análise de Movimentação de Armazém — Schnellecke Logistics
 
-<p align="center">
-  <a href="https://github.com/Paulo207" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo207&repo=IA-Automation-n8n-Make&theme=gold&title_color=DAA520&icon_color=FFD700&hide_border=true" />
-  </a>
-  <a href="https://github.com/Paulo207" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo207&repo=Data-Analysis-Dashboard&theme=gold&title_color=DAA520&icon_color=FFD700&hide_border=true" />
-  </a>
-</p>
+> Projeto de análise de dados aplicado à logística automotiva, desenvolvido com Python.
+> Combina conhecimento operacional real com análise técnica de dados.
 
-> 💡 *Substitua os nomes dos repositórios acima (`LandingPage-Modern`, `Python-Automation-Bot`, etc.) pelos seus projetos reais.*
+**O que foi feito:**
+- Geração e tratamento de dataset com **2.000 registos** de movimentação
+- Cálculo de **KPIs operacionais**: taxa de avaria, tempo de ciclo, produtividade por operador
+- **Dashboard visual** com 6 gráficos gerados automaticamente
+- **Heatmap de fluxos** para identificar estrangulamentos entre zonas do armazém
+- Relatório executivo com recomendações de melhoria
 
----
+**Tecnologias:** `Python` `Pandas` `NumPy` `Matplotlib`
 
-## 📈 Estatísticas do GitHub
+**Principais Insights:**
+- 🔴 Turno noturno: tempo de ciclo **20% superior** à média
+- 🔴 Taxa de avaria noturna: **7%** vs 4% nos outros turnos
+- 🟡 Diferenças de produtividade entre operadores identificadas
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Paulo207&show_icons=true&theme=gold&title_color=DAA520&icon_color=FFD700&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo207&theme=gold&hide_border=true&ring=FFD700&fire=DAA520&currStreakLabel=FFD700" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo207&layout=compact&theme=gold&title_color=DAA520&hide_border=true" />
-</p>
+📁 [Ver Repositório](https://github.com/Paulo207) ← *actualizar com link directo ao repo*
 
 ---
 
-## 🌍 Conecte-se Comigo
+## 📈 Estatísticas GitHub
 
-<p align="center">
-  <a href="mailto:pauloandrebarnabe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/paulo-andr%C3%A9-aires-barnab%C3%A9-324145257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Paulo207"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulo207&show_icons=true&theme=tokyonight&title_color=2E6DA4&icon_color=E8A020&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo207&layout=compact&theme=tokyonight&title_color=2E6DA4&hide_border=true)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DAA520,100:FFD700&height=120&section=footer" />
-</p>
+## 🌍 Contactos
 
-⭐ _“Sempre em busca de aprender, evoluir e criar algo incrível com código, automação e inteligência artificial.”_
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-andreairesw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreairesw@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo_André-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-andré-aires-barnabé-9851b6166)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+351_920_536_853-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351920536853)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E6DA4,100:1B3A6B&height=100&section=footer)
+
+</div>
