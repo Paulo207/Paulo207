@@ -29,8 +29,6 @@ O meu diferencial é a **visão híbrida**: conheço o chão de fábrica e sei t
 
 Apaixonado por tecnologia, automação inteligente e soluções que unem **dados, eficiência e inovação**.
 
-📍 Vila Nova de Famalicão, Portugal
-
 ---
 
 ## 🚀 Especialidades Técnicas
