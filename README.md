@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Paulo%20André%20Barnabé&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Automation%20%26%20AI&descAlignY=62&descSize=18&stroke=ffffff&strokeWidth=1)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,2,5&height=200&text=Paulo%20André%20Barnabé&fontSize=44&fontColor=ffffff&fontAlignY=48&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20Automation%20%26%20AI&descAlignY=72&descSize=18&animation=fadeIn)
 
 <br/>
 
